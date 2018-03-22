@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MustToDo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="titleCard">Title</string>
+    <string name="descriptionCard">Description</string>
+    <string name="complete">Complete</string>
+    <string name="createdTime">Created Time: .......</string>
+</resources>
